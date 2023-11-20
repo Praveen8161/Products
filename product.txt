@@ -1,4 +1,4 @@
-?? Product Deta is given Below
+// Product Deta is given Below
 // 1.Find all the information about each products
 db.products.find()
 
